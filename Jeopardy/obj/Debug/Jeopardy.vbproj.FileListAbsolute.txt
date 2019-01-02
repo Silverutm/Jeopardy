@@ -1,0 +1,16 @@
+C:\Users\Moro\AppData\Local\Temporary Projects\Jeopardy\bin\Debug\Jeopardy.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.pdb
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.vbprojResolveAssemblyReference.cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.Puntaje.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.Resources.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.vbproj.GenerateResource.Cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.pdb
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.Config.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.Jeopardy.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.Preguntas.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.vbproj.ResolveComReference.cache
